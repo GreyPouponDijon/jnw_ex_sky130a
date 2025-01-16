@@ -6,11 +6,9 @@
 [![SIM](../../actions/workflows/sim.yaml/badge.svg)](../../actions/workflows/sim.yaml)
 
 # Who
-halvoar
-
+Halvor Arnesen
 # Why
-
-<explain why you made this module>
+1:4 Current Mirror For milestone 0
 
 # How
 
